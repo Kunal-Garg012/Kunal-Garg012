@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Kunal-Garg012/Kunal-Garg012/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Kunal Garg</h1>
 <h3 align="center">Trying to be my Best Version</h3>
 <img align ="right" alt ="coding" width="400" hieght="200" src ="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
